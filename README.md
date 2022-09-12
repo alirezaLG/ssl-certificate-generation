@@ -14,7 +14,13 @@ curl https://get.acme.sh | sh
 3. deploy certificate
 go to ssl/tsl -> manage SSL -> copy and past manually cer and private key from folder .acme.sh/domain.com  
 
-4. 
 
+#to check ssl 
+https://wphowknow.com/ssl-checker/
+
+
+more infor on medium 
+https://medium.com/@jonathanobise/how-to-setup-free-lets-encrypt-ssl-on-namecheap-using-acme-sh-in-cpanel-5a3d408071ba
+dont forget to replace -- 
 
 
